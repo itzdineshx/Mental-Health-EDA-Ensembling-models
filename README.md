@@ -1,5 +1,3 @@
-Here is a structure/template for your GitHub repository that you can use for your project:
-
 ---
 
 # **Exploring Mental Health Data - Depression Prediction**
@@ -109,5 +107,3 @@ pip install xgboost catboost scikit-learn pandas numpy matplotlib seaborn
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-You can copy-paste this structure into a `README.md` file in your GitHub repository.
