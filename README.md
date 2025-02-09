@@ -57,6 +57,8 @@ We also tune hyperparameters using grid search or random search to optimize perf
 
 After training and evaluating the models, the performance results are as follows:
 
+![ROC Curve](plots/final_result_roc.png)
+
 - **Ensemble**:
     - Accuracy: 95.37%
     - Precision: 87.66%
@@ -82,7 +84,7 @@ After training and evaluating the models, the performance results are as follows
     - F1-Score: 84.34%
     - AUC-ROC: 0.9799
 
-![ROC Curve](plots/final_comp.png)
+
 
 ## **Conclusion** 🏁
 
