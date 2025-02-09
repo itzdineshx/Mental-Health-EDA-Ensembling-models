@@ -82,10 +82,13 @@ After training and evaluating the models, the performance results are as follows
     - F1-Score: 84.34%
     - AUC-ROC: 0.9799
 
+![ROC Curve](plots/final_comp.png)
+
 ## **Conclusion** 🏁
 
 The ensemble model combining XGBoost, CatBoost, and HistGradientBoosting yields the best results, achieving over 95% accuracy and a high AUC-ROC score. The approach can be extended to more complex models or feature engineering strategies for further improvement.
 
+![Models Comparisom](plots/final_comp.png)
 ## **Dependencies** 📦
 
 Ensure you have the following Python packages installed:
